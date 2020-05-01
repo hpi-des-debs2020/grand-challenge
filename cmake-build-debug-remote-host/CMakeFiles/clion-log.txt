@@ -1,0 +1,5 @@
+/usr/local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/gmake -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" /home/grand-challenge
+-- RapidJSON found. Headers: /usr/local/lib/cmake/RapidJSON/../../../include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/grand-challenge/cmake-build-debug-remote-host
